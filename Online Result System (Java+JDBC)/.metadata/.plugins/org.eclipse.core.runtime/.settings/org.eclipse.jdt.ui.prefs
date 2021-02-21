@@ -1,0 +1,26 @@
+command=C\:\\Program Files\\Java\\jdk-13.0.2\\bin\\javadoc.exe
+content_assist_category_order=org.eclipse.jdt.ui.javaAllProposalCategory\:0\u0000org.eclipse.jdt.ui.templateProposalCategory\:1\u0000org.eclipse.jdt.ui.swtProposalCategory\:2\u0000org.eclipse.jdt.ui.javaNoTypeProposalCategory\:65538\u0000org.eclipse.jdt.ui.javaTypeProposalCategory\:65539\u0000org.eclipse.jdt.ui.textProposalCategory\:65540\u0000org.eclipse.jdt.ui.javaChainProposalCategory\:65541\u0000org.eclipse.jdt.ui.javaPostfixProposalCategory\:65542\u0000org.eclipse.jpt.jaxb.ui.jaxbCompletionProposals\:8\u0000org.eclipse.jpt.jpa.ui.jpaProposalCategory\:9\u0000org.eclipse.jst.ws.jaxws.ui.jaxwsProposalComputer\:10\u0000org.eclipse.mylyn.java.ui.javaAllProposalCategory\:11\u0000org.eclipse.pde.api.tools.ui.apitools_proposal_category\:12\u0000
+content_assist_disabled_computers=org.eclipse.jdt.ui.javaNoTypeProposalCategory\u0000org.eclipse.jdt.ui.javaTypeProposalCategory\u0000org.eclipse.jdt.ui.textProposalCategory\u0000org.eclipse.mylyn.java.ui.javaAllProposalCategory\u0000
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="in.co.sunrays.proj4.bean.BaseBean"><rhs name\="in.co.sunrays.proj4.bean.FacultyBean"/><rhs name\="in.co.sunrays.proj4.bean.CourseBean"/><rhs name\="in.co.sunrays.proj4.bean.UserBean"/></lhs><lhs name\="in.co.sunrays.proj4.bean.DropdownListBean"><rhs name\="in.co.sunrays.proj4.bean.FacultyBean"/><rhs name\="in.co.sunrays.proj4.bean.CourseBean"/><rhs name\="in.co.sunrays.proj4.bean.UserBean"/></lhs><lhs name\="in.co.sunrays.proj4.bean.UserBean"><rhs name\="in.co.sunrays.proj4.bean.UserBean"/></lhs><lhs name\="in.co.sunrays.proj4.model.SubjectModel"><rhs name\="in.co.sunrays.proj4.model.SubjectModel"/></lhs><lhs name\="in.co.sunrays.proj4.bean.FacultyBean"><rhs name\="in.co.sunrays.proj4.bean.FacultyBean"/></lhs><lhs name\="in.co.sunrays.proj4.model.FacultyModel"><rhs name\="in.co.sunrays.proj4.model.FacultyModel"/></lhs><lhs name\="java.lang.Exception"><rhs name\="in.co.sunrays.proj4.exception.RecordNotFoundException"/><rhs name\="in.co.sunrays.proj4.exception.ApplicationException"/></lhs><lhs name\="java.lang.Throwable"><rhs name\="in.co.sunrays.proj4.exception.RecordNotFoundException"/><rhs name\="in.co.sunrays.proj4.exception.ApplicationException"/></lhs><lhs name\="in.co.sunrays.proj4.exception.ApplicationException"><rhs name\="in.co.sunrays.proj4.exception.ApplicationException"/></lhs><lhs name\="java.lang.CharSequence"><rhs name\="java.lang.String"/></lhs><lhs name\="in.co.sunrays.proj4.bean.CourseBean"><rhs name\="in.co.sunrays.proj4.bean.CourseBean"/></lhs><lhs name\="in.co.sunrays.proj4.model.CourseModel"><rhs name\="in.co.sunrays.proj4.model.CourseModel"/></lhs><lhs name\="in.co.sunrays.proj4.test.TestRoleModel"><rhs name\="in.co.sunrays.proj4.test.TestRoleModel"/></lhs><lhs name\="in.co.sunrays.proj4.model.RoleModel"><rhs name\="in.co.sunrays.proj4.model.RoleModel"/></lhs><lhs name\="in.co.sunrays.proj4.exception.RecordNotFoundException"><rhs name\="in.co.sunrays.proj4.exception.RecordNotFoundException"/></lhs></history>
+content_assist_number_of_computers=24
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+fontPropagated=true
+markOccurrences=false
+org.eclipse.jdt.internal.ui.navigator.layout=2
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+org.eclipse.jdt.ui.editor.tab.width=
+org.eclipse.jdt.ui.formatterprofiles.version=18
+org.eclipse.jdt.ui.javadoclocations.migrated=true
+org.eclipse.jdt.ui.text.code_templates_migrated=true
+org.eclipse.jdt.ui.text.custom_code_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+org.eclipse.jdt.ui.text.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+org.eclipse.jdt.ui.text.templates_migrated=true
+org.eclipse.jface.textfont=1|Consolas|16.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Consolas;
+proposalOrderMigrated=true
+sourceHoverBackgroundColor=255,255,225
+spelling_locale_initialized=true
+tabWidthPropagated=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

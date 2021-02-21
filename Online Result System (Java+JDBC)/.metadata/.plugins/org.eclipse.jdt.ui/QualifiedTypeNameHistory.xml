@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.logging.Logger"/>
+    <fullyQualifiedTypeName name="in.co.sunrays.proj4.exception.DuplicateRecordException"/>
+    <fullyQualifiedTypeName name="java.lang.StringBuffer"/>
+    <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
+    <fullyQualifiedTypeName name="java.lang.Comparable"/>
+    <fullyQualifiedTypeName name="in.co.sunrays.proj4.util.HTMLUtility"/>
+    <fullyQualifiedTypeName name="java.io.Serializable"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.lang.Error"/>
+    <fullyQualifiedTypeName name="in.co.sunrays.proj4.util.PropertyReader"/>
+    <fullyQualifiedTypeName name="in.co.sunrays.proj4.util.DataValidator"/>
+    <fullyQualifiedTypeName name="in.co.sunrays.proj4.bean.BaseBean"/>
+    <fullyQualifiedTypeName name="in.co.sunrays.proj4.model.FacultyModel"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpServletResponse"/>
+    <fullyQualifiedTypeName name="in.co.sunrays.proj4.bean.FacultyBean"/>
+    <fullyQualifiedTypeName name="javax.servlet.ServletSecurityElement"/>
+    <fullyQualifiedTypeName name="in.co.sunrays.proj4.controller.FacultyCtl"/>
+    <fullyQualifiedTypeName name="in.co.sunrays.proj4.controller.BaseCtl"/>
+    <fullyQualifiedTypeName name="javax.servlet.annotation.WebFilter"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="in.co.sunrays.proj4.bean.CollegeBean"/>
+    <fullyQualifiedTypeName name="in.co.sunrays.proj4.bean.CourseBean"/>
+    <fullyQualifiedTypeName name="in.co.sunrays.proj4.model.CourseModel"/>
+    <fullyQualifiedTypeName name="in.co.sunrays.proj4.model.SubjectModel"/>
+    <fullyQualifiedTypeName name="in.co.sunrays.proj4.bean.StudentBean"/>
+    <fullyQualifiedTypeName name="in.co.sunrays.proj4.bean.UserBean"/>
+    <fullyQualifiedTypeName name="in.co.sunrays.proj4.controller.ORSView"/>
+    <fullyQualifiedTypeName name="java.lang.Object"/>
+    <fullyQualifiedTypeName name="in.co.sunrays.proj4.test.TestRoleModel"/>
+    <fullyQualifiedTypeName name="java.lang.Long"/>
+    <fullyQualifiedTypeName name="in.co.sunrays.proj4.model.RoleModel"/>
+    <fullyQualifiedTypeName name="in.co.sunrays.proj4.util.ServletUtility"/>
+    <fullyQualifiedTypeName name="in.co.sunrays.proj4.util.DataUtility"/>
+    <fullyQualifiedTypeName name="org.jboss.jandex.ThrowsTypeTarget"/>
+    <fullyQualifiedTypeName name="in.co.sunrays.proj4.exception.RecordNotFoundException"/>
+    <fullyQualifiedTypeName name="java.net.Authenticator"/>
+    <fullyQualifiedTypeName name="in.co.sunrays.proj4.exception.ApplicationException"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpServletRequest"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+</qualifiedTypeNameHistroy>
